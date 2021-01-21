@@ -1,0 +1,70 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #4f5c4f;
+  background: #eee;
+  line-height: 2;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+}
+
+.card {
+  text-align: left;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 2%;
+  margin: 16px;
+  width: 250px;
+}
+
+.card .heading {
+    border-radius: 5px 5px 0 0;
+    height: 50px;
+    padding: 2%;
+    background-color: #f5f5f5;
+  }
+
+.card .content {
+  padding: 2%;
+  overflow-y: auto;
+}
+
+.container {
+  padding: 2% 1%;
+}
+
+.big-heading {
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+  text-align: center;
+  color: #4f5c4f;
+}
+
+nav {
+  text-align: center;
+}
+
+.navbar {
+  padding: 2rem;
+  text-align: left;
+}
+
+.nav-item {
+  padding: 0 1rem;
+}
+
+form button {
+  color: #4f5c4f;
+}
+
+.pagination {
+  text-align: center;
+  padding: 2%;
+  display: inline-flex;
+  color: #fff;
+}
+
+.colored-section {
+  background-color: #4f5c4f;
+  color: #fff;
+}
